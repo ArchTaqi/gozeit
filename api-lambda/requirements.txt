@@ -2,6 +2,6 @@ flask_jwt_extended==3.19.0
 Flask==1.1.2
 boto3==1.13.1
 cryptography==2.9
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 simplejson==3.17.0
 stripe==2.48.0
